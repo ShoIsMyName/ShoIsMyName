@@ -10,8 +10,7 @@ I like Daniel Caesar's song. 🎧
     </tr>
   </head>
   <body>
-    <tr>
-      <td><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1436503" style='border:none;'></iframe></td>
+    <tr><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1436503" style='border:none;'></iframe>
     </tr>
   </body>
 </table>
